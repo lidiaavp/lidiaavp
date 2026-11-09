@@ -1,12 +1,9 @@
-## Hi there 👋
 ### Hi there 👋 I'm Lidia
 
 Electrical and Electronic Engineering (EEE) student at the **Universidad de Valladolid (UVa)**, based in Spain. 
-
 Passionate about low-level programming, systems architecture, and building robust software from scratch. My long-term goal is to bridge engineering and global technology, with sights set on international tech hubs.
 
 ---
-
 ### 💻 Tech Stack & Tools
 
 * **Languages:** C, Python, JavaScript, PHP
@@ -14,7 +11,6 @@ Passionate about low-level programming, systems architecture, and building robus
 * **Tools & Environment:** Git, GitHub, VS Code, Linux Terminal / Git Bash
 
 ---
-
 ### 🚀 Current Focus
 
 * Mastering low-level memory management and binary file handling in **C**.
@@ -22,7 +18,6 @@ Passionate about low-level programming, systems architecture, and building robus
 * Building clean, modular scripts for automation and data structuring in Python.
 
 ---
-
 ### 📫 Connect with me
 
 * GitHub: [@lidiaavp](https://github.com/lidiaavp)
